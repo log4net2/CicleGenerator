@@ -1,0 +1,5 @@
+name: VoidGenerator
+version: '${project.version}'
+main: me.sfclog.ciclegenerator.Main
+api-version: '1.20'
+load: startup
